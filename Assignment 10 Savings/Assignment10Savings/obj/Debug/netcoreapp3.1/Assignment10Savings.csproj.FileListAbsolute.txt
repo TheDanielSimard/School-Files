@@ -1,0 +1,14 @@
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment10Savings\Assignment10Savings\bin\Debug\netcoreapp3.1\Assignment10Savings.exe
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment10Savings\Assignment10Savings\bin\Debug\netcoreapp3.1\Assignment10Savings.deps.json
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment10Savings\Assignment10Savings\bin\Debug\netcoreapp3.1\Assignment10Savings.runtimeconfig.json
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment10Savings\Assignment10Savings\bin\Debug\netcoreapp3.1\Assignment10Savings.runtimeconfig.dev.json
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment10Savings\Assignment10Savings\bin\Debug\netcoreapp3.1\Assignment10Savings.dll
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment10Savings\Assignment10Savings\bin\Debug\netcoreapp3.1\Assignment10Savings.pdb
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment10Savings\Assignment10Savings\obj\Debug\netcoreapp3.1\Assignment10Savings.csproj.AssemblyReference.cache
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment10Savings\Assignment10Savings\obj\Debug\netcoreapp3.1\Assignment10Savings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment10Savings\Assignment10Savings\obj\Debug\netcoreapp3.1\Assignment10Savings.AssemblyInfoInputs.cache
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment10Savings\Assignment10Savings\obj\Debug\netcoreapp3.1\Assignment10Savings.AssemblyInfo.cs
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment10Savings\Assignment10Savings\obj\Debug\netcoreapp3.1\Assignment10Savings.csproj.CoreCompileInputs.cache
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment10Savings\Assignment10Savings\obj\Debug\netcoreapp3.1\Assignment10Savings.dll
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment10Savings\Assignment10Savings\obj\Debug\netcoreapp3.1\Assignment10Savings.pdb
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment10Savings\Assignment10Savings\obj\Debug\netcoreapp3.1\Assignment10Savings.genruntimeconfig.cache
