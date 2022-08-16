@@ -1,0 +1,10 @@
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 1 Nifty Repair Service\Assignment 1 Nifty Repair Service\bin\Debug\Assignment 1 Nifty Repair Service.exe.config
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 1 Nifty Repair Service\Assignment 1 Nifty Repair Service\bin\Debug\Assignment 1 Nifty Repair Service.exe
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 1 Nifty Repair Service\Assignment 1 Nifty Repair Service\bin\Debug\Assignment 1 Nifty Repair Service.pdb
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 1 Nifty Repair Service\Assignment 1 Nifty Repair Service\obj\Debug\Assignment 1 Nifty Repair Service.csproj.AssemblyReference.cache
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 1 Nifty Repair Service\Assignment 1 Nifty Repair Service\obj\Debug\Assignment_1_Nifty_Repair_Service.FrmMain.resources
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 1 Nifty Repair Service\Assignment 1 Nifty Repair Service\obj\Debug\Assignment_1_Nifty_Repair_Service.Properties.Resources.resources
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 1 Nifty Repair Service\Assignment 1 Nifty Repair Service\obj\Debug\Assignment 1 Nifty Repair Service.csproj.GenerateResource.cache
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 1 Nifty Repair Service\Assignment 1 Nifty Repair Service\obj\Debug\Assignment 1 Nifty Repair Service.csproj.CoreCompileInputs.cache
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 1 Nifty Repair Service\Assignment 1 Nifty Repair Service\obj\Debug\Assignment 1 Nifty Repair Service.exe
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 1 Nifty Repair Service\Assignment 1 Nifty Repair Service\obj\Debug\Assignment 1 Nifty Repair Service.pdb
