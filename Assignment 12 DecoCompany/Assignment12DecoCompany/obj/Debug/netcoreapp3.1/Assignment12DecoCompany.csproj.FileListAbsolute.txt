@@ -1,0 +1,14 @@
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment12DecoCompany\Assignment12DecoCompany\obj\Debug\netcoreapp3.1\Assignment12DecoCompany.csproj.AssemblyReference.cache
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment12DecoCompany\Assignment12DecoCompany\obj\Debug\netcoreapp3.1\Assignment12DecoCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment12DecoCompany\Assignment12DecoCompany\obj\Debug\netcoreapp3.1\Assignment12DecoCompany.AssemblyInfoInputs.cache
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment12DecoCompany\Assignment12DecoCompany\obj\Debug\netcoreapp3.1\Assignment12DecoCompany.AssemblyInfo.cs
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment12DecoCompany\Assignment12DecoCompany\obj\Debug\netcoreapp3.1\Assignment12DecoCompany.csproj.CoreCompileInputs.cache
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment12DecoCompany\Assignment12DecoCompany\bin\Debug\netcoreapp3.1\Assignment12DecoCompany.exe
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment12DecoCompany\Assignment12DecoCompany\bin\Debug\netcoreapp3.1\Assignment12DecoCompany.deps.json
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment12DecoCompany\Assignment12DecoCompany\bin\Debug\netcoreapp3.1\Assignment12DecoCompany.runtimeconfig.json
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment12DecoCompany\Assignment12DecoCompany\bin\Debug\netcoreapp3.1\Assignment12DecoCompany.runtimeconfig.dev.json
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment12DecoCompany\Assignment12DecoCompany\bin\Debug\netcoreapp3.1\Assignment12DecoCompany.dll
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment12DecoCompany\Assignment12DecoCompany\bin\Debug\netcoreapp3.1\Assignment12DecoCompany.pdb
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment12DecoCompany\Assignment12DecoCompany\obj\Debug\netcoreapp3.1\Assignment12DecoCompany.dll
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment12DecoCompany\Assignment12DecoCompany\obj\Debug\netcoreapp3.1\Assignment12DecoCompany.pdb
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment12DecoCompany\Assignment12DecoCompany\obj\Debug\netcoreapp3.1\Assignment12DecoCompany.genruntimeconfig.cache
