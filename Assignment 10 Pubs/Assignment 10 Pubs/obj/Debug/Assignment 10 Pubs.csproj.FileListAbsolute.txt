@@ -1,0 +1,12 @@
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 10 Pubs\Assignment 10 Pubs\bin\Debug\Pubs.mdf
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 10 Pubs\Assignment 10 Pubs\bin\Debug\Pubs_log.ldf
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 10 Pubs\Assignment 10 Pubs\bin\Debug\Assignment 10 Pubs.exe.config
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 10 Pubs\Assignment 10 Pubs\bin\Debug\Assignment 10 Pubs.exe
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 10 Pubs\Assignment 10 Pubs\bin\Debug\Assignment 10 Pubs.pdb
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 10 Pubs\Assignment 10 Pubs\obj\Debug\Assignment 10 Pubs.csproj.AssemblyReference.cache
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 10 Pubs\Assignment 10 Pubs\obj\Debug\Assignment_10_Pubs.FrmMain.resources
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 10 Pubs\Assignment 10 Pubs\obj\Debug\Assignment_10_Pubs.Properties.Resources.resources
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 10 Pubs\Assignment 10 Pubs\obj\Debug\Assignment 10 Pubs.csproj.GenerateResource.cache
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 10 Pubs\Assignment 10 Pubs\obj\Debug\Assignment 10 Pubs.csproj.CoreCompileInputs.cache
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 10 Pubs\Assignment 10 Pubs\obj\Debug\Assignment 10 Pubs.exe
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 10 Pubs\Assignment 10 Pubs\obj\Debug\Assignment 10 Pubs.pdb
