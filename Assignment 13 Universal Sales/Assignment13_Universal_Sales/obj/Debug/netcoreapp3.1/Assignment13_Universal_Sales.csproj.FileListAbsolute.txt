@@ -1,0 +1,28 @@
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment13_Universal_Sales\Assignment13_Universal_Sales\obj\Debug\netcoreapp3.1\Assignment13_Universal_Sales.csproj.AssemblyReference.cache
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment13_Universal_Sales\Assignment13_Universal_Sales\obj\Debug\netcoreapp3.1\Assignment13_Universal_Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment13_Universal_Sales\Assignment13_Universal_Sales\obj\Debug\netcoreapp3.1\Assignment13_Universal_Sales.AssemblyInfoInputs.cache
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment13_Universal_Sales\Assignment13_Universal_Sales\obj\Debug\netcoreapp3.1\Assignment13_Universal_Sales.AssemblyInfo.cs
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment13_Universal_Sales\Assignment13_Universal_Sales\obj\Debug\netcoreapp3.1\Assignment13_Universal_Sales.csproj.CoreCompileInputs.cache
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment13_Universal_Sales\Assignment13_Universal_Sales\bin\Debug\netcoreapp3.1\Assignment13_Universal_Sales.exe
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment13_Universal_Sales\Assignment13_Universal_Sales\bin\Debug\netcoreapp3.1\Assignment13_Universal_Sales.deps.json
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment13_Universal_Sales\Assignment13_Universal_Sales\bin\Debug\netcoreapp3.1\Assignment13_Universal_Sales.runtimeconfig.json
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment13_Universal_Sales\Assignment13_Universal_Sales\bin\Debug\netcoreapp3.1\Assignment13_Universal_Sales.runtimeconfig.dev.json
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment13_Universal_Sales\Assignment13_Universal_Sales\bin\Debug\netcoreapp3.1\Assignment13_Universal_Sales.dll
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment13_Universal_Sales\Assignment13_Universal_Sales\bin\Debug\netcoreapp3.1\Assignment13_Universal_Sales.pdb
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment13_Universal_Sales\Assignment13_Universal_Sales\obj\Debug\netcoreapp3.1\Assignment13_Universal_Sales.dll
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment13_Universal_Sales\Assignment13_Universal_Sales\obj\Debug\netcoreapp3.1\Assignment13_Universal_Sales.pdb
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment13_Universal_Sales\Assignment13_Universal_Sales\obj\Debug\netcoreapp3.1\Assignment13_Universal_Sales.genruntimeconfig.cache
+C:\Users\dansi\OneDrive\Desktop\C# Projects\Old Assignments\Assignment13_Universal_Sales\Assignment13_Universal_Sales\bin\Debug\netcoreapp3.1\Assignment13_Universal_Sales.exe
+C:\Users\dansi\OneDrive\Desktop\C# Projects\Old Assignments\Assignment13_Universal_Sales\Assignment13_Universal_Sales\bin\Debug\netcoreapp3.1\Assignment13_Universal_Sales.deps.json
+C:\Users\dansi\OneDrive\Desktop\C# Projects\Old Assignments\Assignment13_Universal_Sales\Assignment13_Universal_Sales\bin\Debug\netcoreapp3.1\Assignment13_Universal_Sales.runtimeconfig.json
+C:\Users\dansi\OneDrive\Desktop\C# Projects\Old Assignments\Assignment13_Universal_Sales\Assignment13_Universal_Sales\bin\Debug\netcoreapp3.1\Assignment13_Universal_Sales.runtimeconfig.dev.json
+C:\Users\dansi\OneDrive\Desktop\C# Projects\Old Assignments\Assignment13_Universal_Sales\Assignment13_Universal_Sales\bin\Debug\netcoreapp3.1\Assignment13_Universal_Sales.dll
+C:\Users\dansi\OneDrive\Desktop\C# Projects\Old Assignments\Assignment13_Universal_Sales\Assignment13_Universal_Sales\bin\Debug\netcoreapp3.1\Assignment13_Universal_Sales.pdb
+C:\Users\dansi\OneDrive\Desktop\C# Projects\Old Assignments\Assignment13_Universal_Sales\Assignment13_Universal_Sales\obj\Debug\netcoreapp3.1\Assignment13_Universal_Sales.csproj.AssemblyReference.cache
+C:\Users\dansi\OneDrive\Desktop\C# Projects\Old Assignments\Assignment13_Universal_Sales\Assignment13_Universal_Sales\obj\Debug\netcoreapp3.1\Assignment13_Universal_Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansi\OneDrive\Desktop\C# Projects\Old Assignments\Assignment13_Universal_Sales\Assignment13_Universal_Sales\obj\Debug\netcoreapp3.1\Assignment13_Universal_Sales.AssemblyInfoInputs.cache
+C:\Users\dansi\OneDrive\Desktop\C# Projects\Old Assignments\Assignment13_Universal_Sales\Assignment13_Universal_Sales\obj\Debug\netcoreapp3.1\Assignment13_Universal_Sales.AssemblyInfo.cs
+C:\Users\dansi\OneDrive\Desktop\C# Projects\Old Assignments\Assignment13_Universal_Sales\Assignment13_Universal_Sales\obj\Debug\netcoreapp3.1\Assignment13_Universal_Sales.csproj.CoreCompileInputs.cache
+C:\Users\dansi\OneDrive\Desktop\C# Projects\Old Assignments\Assignment13_Universal_Sales\Assignment13_Universal_Sales\obj\Debug\netcoreapp3.1\Assignment13_Universal_Sales.dll
+C:\Users\dansi\OneDrive\Desktop\C# Projects\Old Assignments\Assignment13_Universal_Sales\Assignment13_Universal_Sales\obj\Debug\netcoreapp3.1\Assignment13_Universal_Sales.pdb
+C:\Users\dansi\OneDrive\Desktop\C# Projects\Old Assignments\Assignment13_Universal_Sales\Assignment13_Universal_Sales\obj\Debug\netcoreapp3.1\Assignment13_Universal_Sales.genruntimeconfig.cache
