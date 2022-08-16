@@ -1,0 +1,10 @@
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 8 Cottages\Assignment 8 Cottages\bin\Debug\Assignment 8 Cottages.exe.config
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 8 Cottages\Assignment 8 Cottages\bin\Debug\Assignment 8 Cottages.exe
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 8 Cottages\Assignment 8 Cottages\bin\Debug\Assignment 8 Cottages.pdb
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 8 Cottages\Assignment 8 Cottages\obj\Debug\Assignment 8 Cottages.csproj.AssemblyReference.cache
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 8 Cottages\Assignment 8 Cottages\obj\Debug\Assignment_8_Cottages.Form1.resources
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 8 Cottages\Assignment 8 Cottages\obj\Debug\Assignment_8_Cottages.Properties.Resources.resources
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 8 Cottages\Assignment 8 Cottages\obj\Debug\Assignment 8 Cottages.csproj.GenerateResource.cache
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 8 Cottages\Assignment 8 Cottages\obj\Debug\Assignment 8 Cottages.csproj.CoreCompileInputs.cache
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 8 Cottages\Assignment 8 Cottages\obj\Debug\Assignment 8 Cottages.exe
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 8 Cottages\Assignment 8 Cottages\obj\Debug\Assignment 8 Cottages.pdb
