@@ -1,0 +1,15 @@
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 11 Northwind ADO.Net Data Entity\Assignment 11 Northwind ADO.Net Data Entity\bin\Debug\Assignment 11 Northwind ADO.Net Data Entity.exe.config
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 11 Northwind ADO.Net Data Entity\Assignment 11 Northwind ADO.Net Data Entity\bin\Debug\Assignment 11 Northwind ADO.Net Data Entity.exe
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 11 Northwind ADO.Net Data Entity\Assignment 11 Northwind ADO.Net Data Entity\bin\Debug\Assignment 11 Northwind ADO.Net Data Entity.pdb
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 11 Northwind ADO.Net Data Entity\Assignment 11 Northwind ADO.Net Data Entity\bin\Debug\EntityFramework.dll
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 11 Northwind ADO.Net Data Entity\Assignment 11 Northwind ADO.Net Data Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 11 Northwind ADO.Net Data Entity\Assignment 11 Northwind ADO.Net Data Entity\bin\Debug\EntityFramework.xml
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 11 Northwind ADO.Net Data Entity\Assignment 11 Northwind ADO.Net Data Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 11 Northwind ADO.Net Data Entity\Assignment 11 Northwind ADO.Net Data Entity\obj\Debug\Assignment 11 Northwind ADO.Net Data Entity.csproj.AssemblyReference.cache
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 11 Northwind ADO.Net Data Entity\Assignment 11 Northwind ADO.Net Data Entity\obj\Debug\Assignment_11_Northwind_ADO.Net_Data_Entity.Properties.Resources.resources
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 11 Northwind ADO.Net Data Entity\Assignment 11 Northwind ADO.Net Data Entity\obj\Debug\Assignment 11 Northwind ADO.Net Data Entity.csproj.GenerateResource.cache
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 11 Northwind ADO.Net Data Entity\Assignment 11 Northwind ADO.Net Data Entity\obj\Debug\Assignment 11 Northwind ADO.Net Data Entity.csproj.CoreCompileInputs.cache
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 11 Northwind ADO.Net Data Entity\Assignment 11 Northwind ADO.Net Data Entity\obj\Debug\Assignment 11 Northwind ADO.Net Data Entity.csproj.CopyComplete
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 11 Northwind ADO.Net Data Entity\Assignment 11 Northwind ADO.Net Data Entity\obj\Debug\Assignment 11 Northwind ADO.Net Data Entity.exe
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 11 Northwind ADO.Net Data Entity\Assignment 11 Northwind ADO.Net Data Entity\obj\Debug\Assignment 11 Northwind ADO.Net Data Entity.pdb
+C:\Users\dansi\OneDrive\Desktop\COMI 1225\Assignment 11 Northwind ADO.Net Data Entity\Assignment 11 Northwind ADO.Net Data Entity\obj\Debug\Assignment_11_Northwind_ADO.Net_Data_Entity.FrmMain.resources
